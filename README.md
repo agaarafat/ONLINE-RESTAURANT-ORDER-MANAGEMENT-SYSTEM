@@ -1,0 +1,2 @@
+# ONLINE-RESTAURANT-ORDER-MANAGEMENT-SYSTEM
+Using this website customer can view restaurant information, menus, create account, order meal using this site, payment and access customer account. Restaurant admin can sign in admin panel, add, delete, view, modify all information about restaurant, menus, categories, employee, orders etc. and Employee can access order and update order status view delivery and pickup information.
